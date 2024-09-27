@@ -8,6 +8,7 @@ used by movie studios to make better decisions about which movies to produce and
 Movie sentiment analysis is a powerful tool for understanding and analyzing the sentiments expressed in 
 movie reviews. Through sentiment analysis, we can gain valuable insights into audience opinions and perceptions, 
 which have various applications in the film industry. Here are key conclusions regarding movie sentiment analysis:
+
 ◼ Audience Sentiment Understanding.
 ◼ Marketing Insights.
 ◼ Recommendation Systems.
