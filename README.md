@@ -1,6 +1,7 @@
 ## Movie Review Sentiment Analysis
 
-![Uploading Movie_Sentiment_Analysis.jpg…]()
+
+![Movie_Sentiment_Analysis](https://github.com/user-attachments/assets/8c0f5265-9810-4428-b045-68c26a6169ac)
 
 Project Description
 
