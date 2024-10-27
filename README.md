@@ -1,6 +1,6 @@
 ## Movie Review Sentiment Analysis
 
-https://raw.githubusercontent.com/Vivek1222/Text-classification-Sentiment-Analysis-Project/refs/heads/main/DALL%C2%B7E%202024-10-27%2009.59.53%20-%20An%20engaging%20visual%20for%20a%20movie%20sentiment%20analysis%20project%20with%20a%20Marvel%20theme.%20The%20background%20features%20iconic%20Marvel%20elements%20like%20superheroes%E2%80%99%20silhou.webp
+![Uploading Movie_Sentiment_Analysis.jpg…]()
 
 Project Description
 
